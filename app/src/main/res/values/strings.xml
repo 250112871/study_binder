@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BinderDemo</string>
+    <string name="getbookname1">getBookName() by binder</string>
+    <string name="getStudentName">getStudentName()</string>
+    <string name="bind_server">绑定服务</string>
+    <string name="unBinder">解除绑定</string>
+    <string name="show_content">内容展示</string>
+</resources>
